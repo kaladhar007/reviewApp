@@ -1,0 +1,19 @@
+.page {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/reviews-bg.png');
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.heading {
+  color: white;
+}
+.arrowNameContainer {
+  display: flex;
+  justify-content: space-around;
+}
+button {
+  background-color: transparent;
+  border: none;
+}
